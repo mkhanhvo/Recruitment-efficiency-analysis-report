@@ -131,10 +131,10 @@ HQ recruitment involves niche roles with long approval processes. Reducing inter
 ### Insight: academic hiring faced major interview delays in 2025, signaling slow evaluation loops or panel scheduling issues. Training or better calendar alignment could improve pace
 
 # Recommendations
-- Refocus on source quality: Narrow sourcing to high-performing channels (Referral, Zalo, TopCV) and phase out low-yield job boards to reduce wasted screening effort.
-- Strengthen early-stage efficiency: The main bottleneck lies between Screen → Interview; standardize screening criteria and enhance recruiter–hiring manager calibration to improve conversion.
-- Optimize BU-level coordination: Corporate BUs (Head Quarter, Finance) face long approval loops — simplify hiring workflow and set BU-specific SLAs for faster turnaround.
-- Balance recruiter workload: A few recruiters handle the majority of hires while others remain underutilized; redistribute requisitions and monitor recruiter productivity monthly.
-- Accelerate interview-to-offer flow: Shorten interview duration and internal approval time to align with top-performing BUs (Sales, Academic).
-- Reinforce data-driven management: Track Time-to-Fill, Time-to-Hire, and stage duration by recruiter & BU; use dashboards for coaching and accountability.
-- Sustain offer quality & employer brand: Maintain the high Offer → Onboard success (90–100%) through continuous candidate engagement and clear expectation-setting
+- Refocus on source quality: narrow sourcing to high-performing channels (Referral, Zalo, TopCV) and phase out low-yield job boards to reduce wasted screening effort
+- Strengthen early stage efficiency: the main bottleneck lies between Screen → Interview, standardize screening criteria and enhance recruiter–hiring manager calibration to improve conversion
+- Optimize BU-level coordination: corporate BUs (Head Quarter, Finance) face long approval loops -> simplify hiring workflow and set BU-specific SLAs for faster turnaround
+- Balance recruiter workload: a few recruiters handle the majority of hires while others remain underutilized, redistribute requisitions and monitor recruiter productivity monthly
+- Accelerate interview to offer flow: Shorten interview duration and internal approval time to align with top-performing BUs (Sales, Academic)
+- Reinforce data-driven management: track time-to-fill, time to hire and stage duration by recruiter & BU; use dashboards for coaching and accountability
+- Sustain offer quality & employer brand: maintain the high offer → onboard success (90–100%) through continuous candidate engagement and clear expectation setting
