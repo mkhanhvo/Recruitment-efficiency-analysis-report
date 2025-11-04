@@ -15,11 +15,21 @@ The objective is to make data-driven decisions to improve recruitment effectiven
 ### 1. Recruitment Growth and Peak Performance (2024):
 In 2024, 12,266 candidates were screened, leading to 336 offers and 315 hires with a 2.57% conversion rate. The recruitment cycle was efficient with an average time to fill of 27 days and time to hire of 13 days. TopCV, CareerViet and Employee Referral were the primary high-performing sources
 
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/fefe7cef1d7086462afadc27f2538fc1cf71eb35/Recruitment%20Growth%20and%20Peak%20Performance%20(2024).png)
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/fefe7cef1d7086462afadc27f2538fc1cf71eb35/Hire%20by%20source%202024%20overall.png)
+
 ### 2. Declining Trend in 2025:
 Although screened candidates increased by 18%, offers and hires dropped by 61% and 65% respectively. Conversion rate fell to 0.75%, indicating lower candidate quality or stricter selection. Time to fill increased to 31 days, hinting at bottlenecks
 
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/fefe7cef1d7086462afadc27f2538fc1cf71eb35/Overall%20Declining%20Trend%20in%202025.png)
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/3c20815155b825bed346bce855da3db3b8ebbd80/Hire%20by%20source%202025%20overall.png)
+
 ### 3. Source Insights and Efficiency:
 TopCV, CareerViet and LinkedIn remained key sources, but offer conversion rates declined. Zalo and Employee Referral maintained high offer rates (>25%). Low conversion from Facebook, VNW and other boards suggests stricter source screening is needed
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/3c20815155b825bed346bce855da3db3b8ebbd80/Overall%20candidate%20quality%20by%20source.png)
 
 ### 4. Candidate Quality & Funnel Efficiency:
 A higher volume of screened candidates is now needed per hire, reflecting a drop in candidate quality or less effective screening. Causes may include broad but less precise sourcing, inconsistent evaluation criteria and process delays causing candidate dropouts. Recommendations include auditing top sources, tightening screening standards and reducing lead times to enhance funnel efficiency
@@ -32,8 +42,14 @@ Address causes of 2025 efficiency decline, including increased volume and proces
 - Overall data shows TopCV, CareerViet and Employee Referral generate most hires, but overall conversion to offer stays below 5%, indicating low sourcing efficiency
 - A high number of screened candidates are required for each hire → suggests broad but low-quality sourcing or ineffective screening filters
 - Sales 2024 mirrors the same pattern: high reliance on TopCV and Referral, while other online job boards deliver minimal offer rates
-- Offer acceptance within Sales remains modest, pointing to potential candidate–role mismatch or less competitive offer terms
-### Recommendation: Focus sourcing budget on proven high-conversion channels, refine screening criteria, and review offer attractiveness to improve Sales funnel efficiency
+- Offer acceptance within Sales remains modest, pointing to potential candidate role mismatch or less competitive offer terms
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/e361172e051e9bdace21663844cf26cdfc4ec0ca/Sales%20hired%20by%20source.png)
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/e361172e051e9bdace21663844cf26cdfc4ec0ca/Sales%20candidate%20quality%20by%20source.png)
+  
+### Recommendation: 
+Focus sourcing budget on proven high-conversion channels, refine screening criteria, and review offer attractiveness to improve Sales funnel efficiency
 
 ### 1.1 Recruitment Conversion & Process Efficiency by Business Unit (2024–2025)
 - Overall trend: across Education Business Units, overall recruitment conversion declined from ~18–27% (2024) to 6-18% (2025) in the interview to offer stage, showing a weaker funnel efficiency year-over-year
@@ -43,6 +59,10 @@ Address causes of 2025 efficiency decline, including increased volume and proces
 ### Areas to improve:
 - Head Quarter and Management Services recorded the lowest interview to offer rates (8–12%) and longer processing durations, implying misalignment between requirements and sourcing quality
 - Conversion gaps suggest potential inefficiency in initial screening or decision turnaround at these units
+
+![image alt](https://github.com/mkhanhvo/Recruitment-efficiency-analysis-report/blob/0a447db5bf3c7dee5379dc0a28e8a2643efd196b/2024%20Sales%20recruitment%20convert%20rate%20by%20BU.png)
+
+
 
 ### 1.2 Time to Hire & Time to Fill (2024–2025)
 - Average time to hire remained stable across BUs (13–17 days in 2024, 12–23 days in 2025), indicating consistent internal selection speed
