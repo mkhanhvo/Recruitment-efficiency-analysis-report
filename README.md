@@ -36,7 +36,7 @@ Address causes of 2025 efficiency decline, including increased volume and proces
 ### Recommendation: Focus sourcing budget on proven high-conversion channels, refine screening criteria, and review offer attractiveness to improve Sales funnel efficiency
 
 ### 1.1 Recruitment Conversion & Process Efficiency by Business Unit (2024–2025)
-- Overall trend: across 5 Business Units, overall recruitment conversion declined from ~18–27% (2024) to 6-21% (2025) in the interview to offer stage, showing a weaker funnel efficiency year-over-year
+- Overall trend: across Education Business Units, overall recruitment conversion declined from ~18–27% (2024) to 6-18% (2025) in the interview to offer stage, showing a weaker funnel efficiency year-over-year
 ### Top performers:
 - Coding for Kids and Children’s English Program maintained the highest conversion and stable offer acceptance (94–100%), reflecting consistent candidate quality and effective screening
 - Adult English Education also performed steadily but saw a notable drop in early-stage conversion (from 21% → 6%)
@@ -62,73 +62,43 @@ Performance gap between education-related BUs (operational) and support BUs (cor
 - Continue leveraging strong-performing BUs (Coding for Kids, Children’s English Program) as internal process models
 - Introduce BU-level SLAs on time-to-fill and stage completion to enforce consistency
 
-## 2. Overall Recruiter Conversion Performance (All BUs combined)
-### Overall insights:
-- The team performs strongly in the final stages (Offer → Onboard), with most recruiters achieving >90–100%, indicating effective candidate engagement and offer management
-- However, the main bottleneck lies in the early stage (Screen → Interview), which remains low (4–22%). This suggests issues in candidate quality or inconsistent screening standards among recruiters
-- The Interview → Offer rate shows wide variation (7–32%), implying uneven assessment or closing skills across the team
-### Recruiter highlights:
-- Ms. A, Mr. S, and Ms. LH show consistently strong mid-to-late funnel performance, indicating solid interview and offer negotiation skills
-- Mr. TP and Ms. L have the lowest screen-to-interview rates (4–8%), requiring improvement in sourcing or candidate shortlisting
-- Team Leader maintains only 9% early conversion, but achieves 100% onboarding, reflecting effective post-offer management
+## 2. Overall Recruiter Conversion Performance
+### Overall slowdown:
+Across all recruiters's conversion rates, especially “Interview to Offer” dropped sharply from 2024 to 2025, while the Onboard rate stayed high (~100%). This suggests that once suitable candidates are found, they are successfully hired, but identifying them now takes more effort
+### Efficiency decline:
+- Average interview duration increased noticeably (up to 11–14 days, 41 days for Team Leader)
+- Time to Hire and Time to Fill slightly increased, indicating a more complex process or lower candidate quality
+- Recruiter performance gap widened: Mr. C remained the fastest recruiter, but the gap between top and low performers (e.g., Mr. C vs Ms. LH / Team Leader) widened in 2025
+- Process bottleneck: The Screen to Interview stage continues to be the weakest link, showing challenges in sourcing candidates that meet interview criteria
 
 ### 2.1 Sales Recruitment 2024 → 2025 trend:
-- Overall efficiency declined (total conversion 4% → 1%) despite a comparable number of screened candidates (~3.5K → 2.8K).
-- Mr. S and Ms. A remain top performers (Interview → Offer at 36–44% in 2024, still 20–22% in 2025).
-- The Screen → Interview stage dropped significantly in 2025 (mostly 5–17%), pointing to weaker candidate pipelines or stricter selection criteria.
-### Key Insight: 
-Sales funnel in 2025 shows tighter screening at the top, leading to a sharp drop in overall conversion. Review sourcing strategy or screening criteria to balance candidate quality and hiring volume
+### 2024 Highlights: strong conversions across recruiters
+- Screen to Interview: 12–20% (Team Leader: 43%)
+- Interview to Offer: 30–44%
+- Onboard: consistently 90–100%
+- Most effective recruiters (Mr. S, Ms. LH) delivered short cycle times and high offer success.
+### 2025 Shift:significant efficiency decline
+- Screen to Interview fell to 3–15%
+- Interview to Offer dropped to 0–25%
+- Onboard remained high (71–100%)
+- Only Ms. H and Ms. L maintained strong conversions, while others (Mr. C, Mr. TP) showed steep decreases, indicating stricter selection or poor candidate-job fit.
+### Speed:
+In 2025, Mr. C and Ms. H exhibited the shortest interview durations (4–5 days), while Team Leader took the longest (41 days). Despite slower processing, onboarding success stayed robust, highlighting issues primarily in early-stage screening.
+### Insight:
+Sales recruitment in 2025 saw slower, less effective early-stage conversions. Focus on improving sourcing quality and screening consistency to restore prior efficiency
 
 ### 2.2 Academic Recruitment 2024 → 2025 trend:
-- Slight decline in overall conversion (2% → 1%), but Offer → Onboard remains steady at ~100%
-- Mr. S continues to excel (Interview → Offer 67% in 2024, maintaining 20–27% in 2025)
-- Mr. C improved the most in Screen → Interview (8% → 33%), showing progress in candidate pre-screening quality
-### Key Insight:
-Academic recruitment maintains strong late-funnel efficiency but needs stronger top-funnel flow. Sharing best practices from Mr. C (screening) and Mr. S (interviewing) could raise overall conversion
-
-### 2.3 Head Quarter Recruitment 2024 → 2025 trend:
-- Conversion remained low (1–3%), though onboarding success is 100% with very few hires (18 hires from ~3,000 screened).
-- Mr. TP stood out in 2024 with 100% full-funnel conversion, likely due to specialized role management.
-- In 2025, most recruiters (Mr. C, Ms. L, Ms. LH) stayed at 1–2% conversion, and time-to-fill averaged 42 days, indicating procedural delay.
-### Key Insight:
-HQ recruitment involves niche roles with long approval processes. Reducing internal turnaround time or simplifying interview rounds could improve efficiency
-
-## 3.Hiring Duration Across Recruiters: How Fast Does Each Recruiter Hire?
-### Key observations:
-- Ms. H and Ms. A delivered the highest hire volumes (87–108 hires) with efficient time-to-hire (11–16 days), proving strong pipeline ownership and quick turnaround.
-- Team Leader showed extremely long stage durations (notably Apply → Screen: 37 days), leading to the highest Time-to-Fill (42 days) — indicating delays likely caused by role approvals or workload balancing.
-- Mr. C and Mr. S achieved balanced results: moderate hire counts (39–51) and efficient process control (Time-to-Hire 12–13 days).
-- Ms. LH consistently had the longest interview durations (13 days) and higher time-to-hire (23 days), suggesting slower decision cycles or coordination with hiring managers.
-
-### 3.1 Yearly Comparison: 2024 vs 2025
-### 2024:
-- Balanced performance overall — most recruiters completed hires in 11–16 days, with average Time-to-Fill at 25–28 days
-- Ms. H and Ms. A again led in volume (57–82 hires), with quick stage progression and short interview durations (5–8 days)
-
-### 2025:
-- Noticeable decline in total hires and prolonged cycle times, especially for Team Leader (TTF 48 days, TTH 39 days) and Ms. LH (32 days)
-- Recruiters handled smaller volumes (max ~25 hires), likely reflecting reduced hiring demand or longer approvals
-### Insight: 2025 hiring slowed down across the board. Efficiency dropped, particularly at the top of the funnel (Apply → Screen). Process bottlenecks appear more systemic than individual
-
-### 3.2 Sales Recruitment (2024 vs 2025)
-### 2024:
-- Ms. H dominated (82 hires), showing high productivity and stable process (TTH 11 days)
-- Mr. TP lagged behind with only 4 hires, possibly supporting niche or low-volume roles
-- Overall, Sales had the shortest Time-to-Hire (11–16 days) among all BUs
-### 2025:
-- Volume dropped drastically (max 25 hires per recruiter)
-- Team Leader again had an unusually long cycle (TTF 48 days, Interview Duration 41 days), affecting overall team efficiency
-- Recruiters still kept TTH under 15 days, indicating internal coordination remained efficient despite fewer hires
-### Insight: sales recruiters maintained good speed per candidate, but volume loss and management delays weakened overall productivity
-
-### 3.3 Academic Recruitment (2024 vs 2025)
-### 2024:
-- Balanced and effective team — recruiters closed roles in 11–15 days (TTH) and 25–34 days (TTF)
-- Ms. L achieved the highest volume (15 hires) with good turnaround
-### 2025:
-- Efficiency declined: time-to-hire increased to 20–27 days, especially for Ms. LH
-- The interview duration spiked sharply for Mr. TP (59 days), possibly due to complex teaching role evaluations
-### Insight: academic hiring faced major interview delays in 2025, signaling slow evaluation loops or panel scheduling issues. Training or better calendar alignment could improve pace
+### 2024 Performance: balanced conversion rates
+- Screen to Interview: 18–33%
+- Interview to Offer: 9–75%
+- Onboard: 75–100%
+- Top performers included Mr. S, Ms. L, and Ms. H with steady results.
+### 2025 Shift: marked early-stage decline:
+- Screen to Interview dropped to 5–10% (except Mr. C at 61%)
+- Interview to Offer mostly under 10%, only Ms. LH achieved 33%
+- Onboard rates strong (81–100%), pointing to shortlisting as main bottleneck.
+### Timing:
+Interview duration increased moderately (8–14 days on average). Time to hire was stable (11–15 days) but Team Leader lagged at 39 days, suggesting slow approvals or delayed offers
 
 # Recommendations
 - Refocus on source quality: narrow sourcing to high-performing channels (Referral, Zalo, TopCV) and phase out low-yield job boards to reduce wasted screening effort
